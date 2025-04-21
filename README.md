@@ -19,6 +19,6 @@ Here are some of the projects I’m proud of:
 
 - 📱 [My Portfolio Website](https://personal-portfolio-ridzwangunawan.vercel.app/about) – Built with React , ThreeJS & Tailwind
 - 🎬 [Search Movie Website](https://web-search-movies.vercel.app/) – Built with React, TMDb API, Axios & CSS
-- 🎧 [Spotify Clone](https://spotify-clone-rg.vercel.app/) – Built in GoLang with AI integration
+- 🎧 [Spotify Clone](https://spotify-clone-rg.vercel.app/) – Built with React & Tailwind
 
 
